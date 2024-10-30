@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcial2Corte</string>
+    <string name="compra_de">Compra de %1$s</string>
+    <string name="precio_unitario">Precio unitario: %.2f</string>
+    <string name="total">Total: %.2f</string>
+    <string name="agregar_al_carrito">Agregar al carrito</string>
+    <string name="cliente_no_encontrado">Cliente no encontrado</string>
+    <string name="producto_no_encontrado">Producto no encontrado</string>
+    <string name="stock_insuficiente">Stock insuficiente</string>
+    <string name="error_procesar_compra">Error al procesar la compra: %1$s</string>
+</resources>
